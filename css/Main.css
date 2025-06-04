@@ -1,11 +1,4 @@
-@font-face {
-    font-family: 'ds-digitalnormal';
-    src: url('fonts/ds-digi-webfont.woff2') format('woff2'),
-         url('fonts/ds-digi-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
 
-}
 
 
 body {
@@ -189,7 +182,6 @@ h1 {
     text-align: center;
     font-size: 50px;
     margin-top: -1px;
-    font-family: 'ds-digitalnormal';
     
 }
 
